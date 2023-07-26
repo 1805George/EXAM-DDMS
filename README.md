@@ -1,2 +1,2 @@
 # GEO-BLOGS
-For blogging and trending topics in the social media streams.
+Blog posts that are geographically aligned.
