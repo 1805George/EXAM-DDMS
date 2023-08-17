@@ -35,5 +35,5 @@ A DDMS will help distribute the needed resources to all registered users over th
 
 
 # Images 
-![Class Diagram Relations](https://github.com/1805George/GEO-BLOGS/assets/96629050/0a8ab927-2f6c-4291-95ce-2b81580b671d)
-![Flow Chart](https://github.com/1805George/GEO-BLOGS/assets/96629050/ca5bd2c4-3b0b-4d64-99ec-f4e6c779a371)
+![ClassDiagrams](https://github.com/1805George/EXAM-DDMS/assets/96629050/ad26d9c8-3dc7-44dc-b142-13abc47236b5)
+![ClassDiagrams](https://github.com/1805George/EXAM-DDMS/assets/96629050/c27b426e-cb27-4cc0-b5c4-1f5dabfbd2ae)
