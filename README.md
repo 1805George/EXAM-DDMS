@@ -35,5 +35,4 @@ A DDMS will help distribute the needed resources to all registered users over th
 
 
 # Images 
-![ClassDiagrams](https://github.com/1805George/EXAM-DDMS/assets/96629050/ad26d9c8-3dc7-44dc-b142-13abc47236b5)
 ![ClassDiagrams](https://github.com/1805George/EXAM-DDMS/assets/96629050/c27b426e-cb27-4cc0-b5c4-1f5dabfbd2ae)
