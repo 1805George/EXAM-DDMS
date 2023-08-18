@@ -27,14 +27,13 @@ A DDMS will help distribute the needed resources to all registered users over th
 
 **### Risks:**
 1. Data Security and Privacy Risks:
-2. Compliance and Legal Concerns: 
-3. Data Loss or Corruption:
-4. Unauthorized Access: 
-5. System Performance: 
-6. Cost and Budget: 
+2. Data Loss or Corruption:
+3. System Performance: 
+
 
 
 # Images 
 ![ClassDiagrams](https://github.com/1805George/EXAM-DDMS/assets/96629050/c27b426e-cb27-4cc0-b5c4-1f5dabfbd2ae)
 ![Flowchart](https://github.com/1805George/EXAM-DDMS/assets/96629050/f32b8de3-1cbf-4466-97f3-f9629714e500)
+![Sequence diagram](https://github.com/1805George/EXAM-DDMS/assets/96629050/69ed2218-7cf9-4c40-8cdb-fc4ef5b46dcf)
 
